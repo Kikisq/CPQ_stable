@@ -1,5 +1,3 @@
-# CPQ
-
 #C2C
 The name of our app is Click2Cal (C2C). This app allows the user to take a picture of a poster, flyer, or banner of an event. After the image is processed using HPE Haven OnDemand's OCR API, the corresponding date, time, and location of the event is added to the user's calendar. The app allows the user to edit the event details to add any notes or extra information, and save the picture in the event details as a reference.
 
